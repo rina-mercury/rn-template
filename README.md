@@ -4,7 +4,7 @@
 
 This is my version of the bare-bones RN template for starting a new project with react-native-web support.
 
-## Feautures
+## Features
 
 - [x] Yarn
 - [x] Typescript
